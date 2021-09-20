@@ -1,4 +1,5 @@
 def echo():
-    print("Echo")
+    print("Echo", 2)
 
-print("echo" * 5)
+print(echo)
+
