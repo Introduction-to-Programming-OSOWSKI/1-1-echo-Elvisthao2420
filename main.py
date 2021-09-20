@@ -1,1 +1,4 @@
-#WRITE YOUR CODE IN THIS FILE
+def echo():
+    print("Echo")
+
+print("echo" * 5)
