@@ -1,6 +1,6 @@
-def echo(a,b):
-    return "yo" + 8
+def echo():
+    return("hello")
 
-print("yo", 8)
+print("hello" * 5)
    
 
