@@ -1,5 +1,6 @@
-def echo():
-    print("Echo", 2)
+def echo(a,b):
+    return "yo" + 8
 
-print(echo)
+print(echo("yo", 8))
+   
 
